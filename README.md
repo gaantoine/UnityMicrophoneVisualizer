@@ -1,6 +1,6 @@
 # UnityMicrophoneVisualizer
 
-A procedural animation project in Unity I created by following Iain McManus' microphone and visualizer tutorial.
+A procedural animation project in Unity I created by following Iain McManus' microphone and visualizer tutorial.  This project demonstrates functionality for detecting available audio input devices, allowing the user to select one and record with it, visually representing the recorded audio waveform, and playing back the recorded audio.
 
 
 
